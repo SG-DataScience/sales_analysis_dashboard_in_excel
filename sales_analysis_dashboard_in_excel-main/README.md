@@ -12,8 +12,8 @@ The purpose of this project is to build a dashboard regrading sales report of tw
  
  First we formatted the raw data and give a name to the table-"Data".
 
-![create table data](https://user-images.githubusercontent.com/80168505/143173325-f81cc0aa-9fcb-49fb-9666-ee544d653776.png)
- 
+![a](https://user-images.githubusercontent.com/80168511/153016176-65f54eb9-706c-42b2-bb47-9c30dd1f7ccc.PNG)
+
  ### Create pivot table for Line chart:
 
  - Name the table - LinePivot
@@ -21,7 +21,7 @@ The purpose of this project is to build a dashboard regrading sales report of tw
  - Format Numbers
  - Insert Line Chart
 
- ![line charts](https://user-images.githubusercontent.com/80168505/143177092-6fbfb27e-2c8c-4ba0-86c1-fbfc78ed2275.png)
+ ![b](https://user-images.githubusercontent.com/80168511/153016230-b6f0388b-fbaf-43fd-800f-14281cb46a05.PNG)
 
 ### Create pivot table for Bar chart by category:
 
@@ -30,23 +30,21 @@ The purpose of this project is to build a dashboard regrading sales report of tw
 - Sort Grand Total in ascending order 
 - Insert Bar chart
 
-![category pivot](https://user-images.githubusercontent.com/80168505/143177633-e21db3cf-ff55-417a-a421-38c13d2ca0d5.png)
-
+![c](https://user-images.githubusercontent.com/80168511/153016250-452be3ce-40c9-4bac-ba10-984b09527f1b.PNG)
 ### Create pivot table for Bar chart by Manager:
 
 - Name the table - ManagerPivot
 - Sort Grand Total for state in ascending order 
 - Insert Bar chart
 
-![manager pivot](https://user-images.githubusercontent.com/80168505/143178085-411924cb-0c55-4a98-8ce8-be9241d4f1b1.png)
-
+![d](https://user-images.githubusercontent.com/80168511/153016319-4d4602a1-4881-4856-bd59-c322d569d073.PNG)
 ### Create a pivot table for Pie chart by chain field:
 
 - Name the table -PiePivot
 - Set to 'show items with no data'
 - Insert Pie chart
 
-![pie pivot](https://user-images.githubusercontent.com/80168505/143180877-02ebeb3a-5864-45ec-805f-c14953f93f3f.png)
+![e](https://user-images.githubusercontent.com/80168511/153016346-5137c125-366f-4afd-8929-d53004b7c848.PNG)
 
 ### Create Sparkline pivot table:
 
@@ -55,15 +53,14 @@ The purpose of this project is to build a dashboard regrading sales report of tw
 - Name the table -SparklineFashionsPivot
 - Set to 'show items with no data'
 
-![sparkline pivot](https://user-images.githubusercontent.com/80168505/143182514-61c7603a-906b-4c05-be73-e671017b8987.png)
+![f](https://user-images.githubusercontent.com/80168511/153016424-ddb8e8d2-e098-468d-b16f-eed17ca6a583.PNG)
 
 ### Create a pivot table for map chart:
 
 - Name the table -MapPivot
 - Country Field Settings Tabular & Repeat Labels
 
-![map pivot 1](https://user-images.githubusercontent.com/80168505/143183426-1e1678c4-6b0b-4828-a629-28542573c74c.png)
-
+![g](https://user-images.githubusercontent.com/80168511/153016455-8c1bed88-1098-45bc-a2b4-5c1a8cd0aba9.PNG)
 - Remove Grand Totals
 - Copy PivotTable and paste beside as values
 - Insert Map Chart
@@ -92,7 +89,7 @@ The purpose of this project is to build a dashboard regrading sales report of tw
     2. State
     3. Category
     
-    ![slicers](https://user-images.githubusercontent.com/80168505/143185563-ff9db683-3961-480c-9c97-82a4806a74de.png)
+    ![h](https://user-images.githubusercontent.com/80168511/153016487-d0eb8847-cc4f-4d51-af26-3eaf488468e1.PNG)
 
 - Link the slicers with the charts
 
@@ -111,6 +108,6 @@ The purpose of this project is to build a dashboard regrading sales report of tw
 
 ### The Final Dashboard looks like --
 
-![final dashboard](https://user-images.githubusercontent.com/80168505/143191103-0dbee2c9-04aa-4fe4-9375-d9c84a4317bc.png)
+![i](https://user-images.githubusercontent.com/80168511/153016504-8df3f736-5756-42fd-96a5-d469f7fa842b.PNG)
 
     
